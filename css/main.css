@@ -151,19 +151,19 @@ nav ul li.droptv{
   opacity:0.2;
 }
 .more {
-  color:rgba(255,102,102,0.9);
+  color:#8f33cc;
   font-size: 5em;
   cursor:pointer;
 }
 .more i:hover{
-  color:rgba(240,202,202,0.9);
+  color:#8f33cc;
 }
 .bottom{
   height:100px;
 }
 .moreTV{
   display:none;
-  color:rgba(255,102,102,0.9);
+  color:#8f33cc;
   font-size: 5em;
   cursor:pointer;
 }
