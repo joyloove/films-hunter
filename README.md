@@ -2,15 +2,6 @@
 
   ![logo.png](assets/images/logo.png)
 
-## Objetivo
-
-   Aplicación móvil para cinéfilos y cazadores de películas.
-
- *  buscar películas
- *  leer la reseña
- *  mostrar los próximos estrenos
-
-
 ## Análisis del usuario
 
  VISIÓN DEL MERCADO GLOBAL
@@ -44,12 +35,30 @@
 
  ![encuesta4.jpg](assets/images/encuesta4.jpg)
 
+## Objetivo
+
+    Aplicación móvil para cinéfilos y cazadores de películas.
+
+  *  buscar películas
+  *  leer la reseña
+  *  mostrar los próximos estrenos
+
+##  Organización
+
  Usando el método de scrum, partimos de un to do list, se repartieron las tareas y comenzamos el trabajo, revisando que se ha logrado y que está pendiente.
 
- Ya ingresamos a la data y tenemos el poster, el nombre de la película y un plot.
+## Logros
 
- Para el viernes esperamos usar la API de YOUTUBE para mostrar el tráiler de la película y la API de google places para mostrar los cines cercanos.
+ Ya ingresamos a la data y dese ahi traemos el poster, el nombre de la película y un plot.
+
+  ![logros.jpg](assets/images/logros.jpg)
+
+## Lo que estamos usando
 
  Decidimos utilizar Materialize pues nos permite hacer una web-app y tener la vista Desktop y mobile.
 
  La API que estamos usando es THE MOVIE DB (TMDb).
+
+## Alcance esperado para el viernes
+
+  Para el viernes esperamos usar la API de google places para mostrar los cines cercanos.
